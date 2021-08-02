@@ -5,6 +5,7 @@ public class Q01 {
         System.out.println("Loop is easy");
         int i = 21;
         String str = "Mustafa";
+        char a = 'b';
     }
 
 }
