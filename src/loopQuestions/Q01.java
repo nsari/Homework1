@@ -6,6 +6,7 @@ public class Q01 {
         int i = 21;
         String str = "Mustafa";
         char a = 'b';
+        int j = 43;
     }
 
 }
