@@ -1,5 +1,7 @@
 package loopQuestions;
 
+import java.sql.SQLOutput;
+
 public class Q01 {
     public static void main(String[] args) {
         System.out.println("Loop is easy");
@@ -8,6 +10,7 @@ public class Q01 {
         char a = 'b';
         int j = 43;
         int b = 15;
+        System.out.println("aaaa");
     }
 
 }
